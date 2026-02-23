@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Frederik 👋
+
+**Tech Lead | Software Engineer | MBA**
+Currently driving digital transformation at **Mjølner Informatics** and building **TapasAmigos**!
+
+### 🛠️ Technical Focus
+* **Backend:** .NET (ASP.NET, EF Core), Node.js, Python (FastAPI/Flask)
+* **Cloud & DevOps:** Azure (App Services, Pipelines), GCP (Firebase), Docker, Kubernetes
+* **Architecture:** Domain-Driven Design (DDD), CQRS, Microservices, API Orchestration
+* **AI Integration:** Working with (Gemini Vision AI) for automated data processing
+
+### 📈 What I'm Doing Now
+* **Mjølner Informatics:** Leading technical delivery for Danish enterprise clients and stabilizing at-risk projects
+* **TapasAmigos:** Creating a digital platform for food lovers in Spain, managing full-stack development and cloud infrastructure.
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/frederik-bendix-soerensen) | [Email](mailto:bendixfrederik@gmail.com)
