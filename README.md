@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Frederik 👋
 
-**Tech Lead | Software Engineer | MBA**
+**Software Engineer | Digital Consultant | MBA**
 Currently driving digital transformation at **Mjølner Informatics** and building **TapasAmigos**!
 
 ### 🛠️ Technical Focus
